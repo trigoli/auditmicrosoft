@@ -1,0 +1,17 @@
+# created by virtualenv automatically
+
+# Ignore all .log files
+*.log
+# Ignore build and csv data directory
+csv/
+build/
+# Ignore OS-specific files
+DS_Store
+
+#ignore all .csv
+.csv
+
+#ingnore
+.ingnore.py
+
+
